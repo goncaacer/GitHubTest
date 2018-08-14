@@ -14,5 +14,9 @@ namespace GitHubTest.Controllers
             //helllooooo
             return View();
         }
+        public ActionResult Insert()
+        {
+            return View();
+        }
     }
 }
